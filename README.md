@@ -1,3 +1,5 @@
+### A simple 3D Tetris game built using SDL2
+
 ## Start
 1. 滑鼠點擊左右兩邊的箭頭可切換到不同的遊戲背景及背景音樂。
 2. 滑鼠點擊中間的tap to start字樣開始遊戲。
